@@ -1,0 +1,9 @@
+#quote-box {
+    margin: 0 auto;
+    padding: 2rem;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+    width: 500px;
+  }
